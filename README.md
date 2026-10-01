@@ -1,24 +1,15 @@
-- 👋 Hi, I’m @VishaanCodes
-- 📚 I'm currently a student studying Maths, Further Maths, and Computer Science A-levels.
+# Vishaan Vohra
 
-- ⌨️ My passion for coding drives me to work on a range of exciting projects:
-   - Genome Sequence Analyzer: A tool designed to analyze and interpret genetic data.
-   - Enigma Machine Simulator: A project to recreate the historic encryption device and understand its cryptographic significance.
-   - Graph Sketcher: An application for visualizing mathematical graphs and functions.
+Mathematics undergraduate at the University of Bristol interested in computational research, data analysis, mathematical modelling and medical technology.
 
-- 🖥️ Skills:
-   - Programming Languages: C#, JavaScript
-   - Databases: MySQL
-  
-- 😆 Interests:
-   - Cryptography: Enthusiastic about the art of secure communication.
-   - Surgical Robotics: Interested in the intersection of technology and healthcare.
-   - Cars: Avid car enthusiast and driving aficionado.
-   - Music: Lead guitarist in two bands, enjoying the creativity of music. 
+My current work includes simulation-based methods for confidence regions in fMRI, alongside projects involving sensor data, Python and mathematical cryptography. I also have experience with robotics and mathematical problem solving.
 
-- 🤝 Feel free to connect with me or check out my projects:
-   - Email: vohravishaan@gmail.com
-   - LinkedIn: linkedin.com/in/vishaanvohra
+**Technical skills:** Python (NumPy, Matplotlib, Streamlit); R; MATLAB; C#; Git/GitHub; LaTeX; statistical analysis; simulation; data visualisation.
+
+**Interests:** Medical technology and imaging; mathematical modelling and data analysis; robotics and engineering; quantitative research; running and music.
+
+**Contact:** [LinkedIn](http://linkedin.com/in/vishaanvohra) · [Email](mailto:vohravishaan@gmail.com)
+
 
 
 <!---
