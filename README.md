@@ -1,6 +1,6 @@
 # Vishaan Vohra
 
-Mathematics undergraduate at the University of Bristol interested in medical statistics, mathematical modelling, computational research, data analysis, and medical technology.
+Mathematics undergraduate at the University of Bristol interested in computational research, data analysis, mathematical modelling and medical technology.
 
 My current work includes simulation-based methods for confidence regions in fMRI, alongside projects involving sensor data, Python and mathematical cryptography. I also have experience with robotics and mathematical problem solving.
 
